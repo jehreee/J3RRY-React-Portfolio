@@ -41,7 +41,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: '/fake-resume.pdf',
+            href: '/Jerry-Omesu-CV.pdf',
             style: 'rounded-br-md',
             download: true,
         }
