@@ -1,6 +1,6 @@
 import React from "react";
 import keeperApp from "../assets/portfolio/KeeperApp.jpg";
-import installNode from "../assets/portfolio/installNode.jpg";
+import naimHomes from "../assets/portfolio/NaimHomes.jpg";
 import navbar from "../assets/portfolio/navbar.jpg";
 import reactParallax from "../assets/portfolio/reactParallax.jpg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
@@ -18,7 +18,9 @@ const Portfolio = () => {
         },
         {
             id: 2,
-            src: installNode
+            src: naimHomes,
+            demo: "https://naim-homes.netlify.app/",
+            gitCode: "https://github.com/jehreee/Naim-Homes",
         },
         {
             id: 3,
