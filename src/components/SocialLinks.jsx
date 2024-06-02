@@ -13,7 +13,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={30} />
                 </>
             ),
-            href: 'https://linkedin.com',
+            href: 'https://linkedin.com/in/jerry-omesu-60618a172',
             style: 'rounded-tr-md'
         },
         {

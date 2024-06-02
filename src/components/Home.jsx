@@ -1,5 +1,5 @@
 import React from 'react';
-import iconAvi from "../assets/iconAvi.png";
+import iconAvi from "../assets/iconAvi2.jpg";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import {Link} from "react-scroll";
 

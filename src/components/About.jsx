@@ -21,7 +21,7 @@ const About = () => {
                 <br />
                 I always strive to stay ahead of the curve and learn about new technologies that are of great use in order to provide the best service possible.
                 <br />
-                And when I'm not building, I'm most likely indoors vibing to musics or watching movies.
+                And when I'm not building, I'm most likely indoors, vibing to music or watching movies.
             </p>
         </div>
     </div>
