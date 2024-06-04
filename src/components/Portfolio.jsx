@@ -1,10 +1,7 @@
 import React from "react";
 import keeperApp from "../assets/portfolio/KeeperApp.jpg";
 import naimHomes from "../assets/portfolio/NaimHomes.jpg";
-import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+
 
 
 const Portfolio = () => {
@@ -22,22 +19,7 @@ const Portfolio = () => {
             demo: "https://naim-homes.netlify.app/",
             gitCode: "https://github.com/jehreee/Naim-Homes",
         },
-        {
-            id: 3,
-            src: navbar
-        },
-        {
-            id: 4,
-            src: reactParallax
-        },
-        {
-            id: 5,
-            src: reactSmooth
-        },
-        {
-            id: 6,
-            src: reactWeather
-        }
+        
     ]
 
     return (
