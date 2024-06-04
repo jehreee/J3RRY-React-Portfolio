@@ -15,7 +15,7 @@ const Home = () => {
                     I'm a Full-Stack Developer
                 </h2>
                 <p className="text-gray-500 py-4 max-w-md">
-                    <span className="font-bold">Hello!</span> I am <span className="font-bold">Jerry,</span> a <span className="font-bold">Software developer</span> from Nigeria.
+                    <span className="font-bold">Hello!</span> I am <span className="font-bold">Jerry Omesu,</span> a <span className="font-bold">Software developer</span> from Nigeria.
                     <br />
                     I build functional web products that are alluring to users and easy to navigate.
                 </p>
